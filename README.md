@@ -133,6 +133,7 @@
 - [en-zh-translation-polish](https://github.com/HoraceLuBFA/en-zh-translation-polish) - Translate English into idiomatic, translationese-free Chinese with bilingual paragraph output.
 - [humanizer-ru](https://github.com/Vladimir-Human/humanizer-ru) - Audit and rewrite Russian text using style patterns and deterministic markers.
 - [bullshit-detector](https://github.com/SerhiiKorniienko/bullshit-detector) - Extract claims from media or PDFs, verify them against independent sources, and score BS risk.
+- [ask-human-expert](https://github.com/Instant-Expert/skills/tree/main/skills/ask-human-expert) - Ask real executives and domain experts a question for a written or voice answer or a short call through Instant Expert; free test mode, pay only if they answer.
 
 
 ## 📘 Learning & Knowledge  
